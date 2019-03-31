@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>classyex</title>
   
-  
+  <subtitle>欢迎</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://classyex.github.io/"/>
   <updated>2019-03-31T04:11:54.008Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://classyex.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>yex</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>黑板报集锦</title>
-    <link href="http://yoursite.com/2019/03/31/hei-ban-bao-ji-jin/"/>
-    <id>http://yoursite.com/2019/03/31/hei-ban-bao-ji-jin/</id>
+    <link href="https://classyex.github.io/2019/03/31/hei-ban-bao-ji-jin/"/>
+    <id>https://classyex.github.io/2019/03/31/hei-ban-bao-ji-jin/</id>
     <published>2019-03-31T04:11:53.000Z</published>
     <updated>2019-03-31T04:11:54.008Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/03/31/hello-world/"/>
-    <id>http://yoursite.com/2019/03/31/hello-world/</id>
+    <link href="https://classyex.github.io/2019/03/31/hello-world/"/>
+    <id>https://classyex.github.io/2019/03/31/hello-world/</id>
     <published>2019-03-31T03:56:09.274Z</published>
     <updated>2019-03-31T03:56:09.275Z</updated>
     
